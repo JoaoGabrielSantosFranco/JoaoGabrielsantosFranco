@@ -1,7 +1,7 @@
-### Bem vindo ao meu perfil, eu sou o João Gabriel!
+### Welcome to my profile, I'm João Gabriel!
    ##
 
-- 🌱 Estudando HTML, CSS, JavaScript, React, PHP, MySQL, Java,
+- 🌱 Studying HTML, CSS, JavaScript, React, PHP, MySQL, Java,
 
 <div align="center">
   <a href="https://github.com/JoaoGabrielsantosFranco">
